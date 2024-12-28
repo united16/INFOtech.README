@@ -1,4 +1,3 @@
-# INFOtech.README
 <h1>Hi, I'm Esrom, an <a href="https://www.linkedin.com/in/esrom-z-74057633a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
